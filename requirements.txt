@@ -8,3 +8,5 @@ streamlit
 gensim
 nltk
 scikit-learn
+scipy==1.10.1
+
