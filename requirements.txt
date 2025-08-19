@@ -9,6 +9,8 @@ gensim
 nltk
 scikit-learn
 scipy==1.13.1
+gensim==4.3.3
+
 
 
 
